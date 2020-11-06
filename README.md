@@ -1,2 +1,3 @@
 # prasidang-TA1
-This is the code for doing image preprocessing on the example data
+image_preprocessing_example.py will perform object detection, resizing, and histogram equalization on the sample data
+
